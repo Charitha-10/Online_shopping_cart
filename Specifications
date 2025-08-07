@@ -1,0 +1,12 @@
+Assignment: Online Shopping Cart Application
+
+Objective:
+Design and implement an Online Shopping Cart Application in Java that allows users to browse products, add products to their cart, remove products from their cart, view their cart, and calculate the total cost of the products in their cart.
+
+Specifications:
+1. Product class: ID, Name, Price
+2. ShoppingCart class: addProduct, removeProduct, viewCart, calculateTotal
+3. Main class: User interface with menu-driven options to perform operations
+4. Use Java Collections Framework (JCF) - ArrayList
+5. Proper error handling and input validation included
+6. Simple and user-friendly command-line interface
